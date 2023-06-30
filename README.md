@@ -7,7 +7,7 @@ Deep Learning Project
 3. C14200047 - Clarissa Angelia
 
 ## Link Laporan
-Docs Laporan 
+[Docs Laporan](https://docs.google.com/document/d/1_ceqOgZwomnZJp0AAHc_Dd1jme9lM6-YWlJsikDujrU/edit?usp=sharing)
 
 ## Link Code
 1. [Percobaan 1]()
