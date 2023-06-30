@@ -1,2 +1,3 @@
-# traffic_sign_detection
-Deep Learning Project - Traffic Light Detection using SSD Classifier
+# Traffic Sign Detection using SSD Classifier
+Deep Learning Project - Group 6
+
