@@ -10,8 +10,8 @@ Deep Learning Project
 [Docs Laporan](https://docs.google.com/document/d/1_ceqOgZwomnZJp0AAHc_Dd1jme9lM6-YWlJsikDujrU/edit?usp=sharing)
 
 ## Link Dataset
-[Training Dataset](https://drive.google.com/file/d/10y9pXLEsUm0lzDrugF5HB21aw71kuAZ0/view)
-[Testing Dataset](https://drive.google.com/file/d/1xkNUHyhiVNhCu5BpclJ9vCJ1LSzvSzpk/view)
+[Training Dataset](https://drive.google.com/file/d/10y9pXLEsUm0lzDrugF5HB21aw71kuAZ0/view)<br>
+[Testing Dataset](https://drive.google.com/file/d/1xkNUHyhiVNhCu5BpclJ9vCJ1LSzvSzpk/view)<br>
 [Additional Dataset](https://gitlab.com/ykristian/indonesian-trafic-sign-dataset/-/blob/master/DatasetSignClassification-44Class.p)
 
 ## Link Code
